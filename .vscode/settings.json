@@ -65,5 +65,6 @@
             },
             "diffEditor.ignoreTrimWhitespace": false // 两个选择器中是否换行
         }
-    ]
+    ],
+    "express.portNumber": 80
 }
